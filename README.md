@@ -39,4 +39,4 @@ Este proyecto es de uso libre para fines educativos.
 ## 👩‍💻 Autora
 Lorena Maria Raygoza Ibarra
 Desarrolladora web con pasión por el aprendizaje.
-Contactame por [LinkdIn](www.linkedin.com/in/lorena-raygoza09)🌟
+Contactame por [LinkdIn](www.linkedin.com/in/lorena-raygoza09) 🌟

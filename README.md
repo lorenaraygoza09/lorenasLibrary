@@ -22,19 +22,21 @@ Una aplicación de consola construida con **Java + Spring Boot** que permite con
 - Hibernate
 
 ## 📋Menú para interactuar en la consola
+
 ****** BIENVENIDO A LA BIBLIOTECA DE LORENA *****
-1 - Buscar libros
-2 - Buscar libros por título
-3 - Mostrar libros registrados
-4 - Mostrar autores registrados
-5 - Mostrar autores vivos en determinado año
-6 - Mostrar los 5 libros más descargados
-0 - Salir
+- 1 - Buscar libros
+- 2 - Buscar libros por título
+- 3 - Mostrar libros registrados
+- 4 - Mostrar autores registrados
+- 5 - Mostrar autores vivos en determinado año
+- 6 - Mostrar los 5 libros más descargados
+-
+- 0 - Salir
 
 ## 📄 Licencia
 Este proyecto es de uso libre para fines educativos.
 
-##👩‍💻 Autora
+## 👩‍💻 Autora
 Lorena Maria Raygoza Ibarra
 Desarrolladora web con pasión por el aprendizaje.
 Contactame por [LinkdIn](www.linkedin.com/in/lorena-raygoza09)🌟

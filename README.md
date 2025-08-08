@@ -30,7 +30,6 @@ Una aplicación de consola construida con **Java + Spring Boot** que permite con
 - 4 - Mostrar autores registrados
 - 5 - Mostrar autores vivos en determinado año
 - 6 - Mostrar los 5 libros más descargados
--
 - 0 - Salir
 
 ## 📄 Licencia
